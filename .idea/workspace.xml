@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6cf4940f-911c-46d1-8370-18346e406f07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WEB-INF/classes/applicationContext.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sqli/demoIOC/constants/TypeDeProduit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sqli/demoIOC/dao/Impl/ProduitDAOMock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sqli/demoIOC/dao/Impl/UserDAOMock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sqli/demoIOC/dao/ProduitDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sqli/demoIOC/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sqli/demoIOC/model/Produit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sqli/demoIOC/service/Impl/ProduitServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/sqli/demoIOC/service/ProduitService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WEB-INF/classes/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/applicationContext.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/sqli/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sqli/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/sqli/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sqli/App.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +91,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582119524299</updated>
-      <workItem from="1582119527222" duration="5229000" />
+      <workItem from="1582119527222" duration="6277000" />
     </task>
     <servers />
   </component>
@@ -117,22 +106,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="174" y="233" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1582123045148" />
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1582124605915">
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom" timestamp="1582125810536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582124605915" />
-    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1582124605915">
+    <state width="1877" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582125810536" />
+    <state width="1877" height="284" key="GridCell.Tab.0.center" timestamp="1582125810536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582124605915" />
-    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1582124605915">
+    <state width="1877" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582125810536" />
+    <state width="1877" height="284" key="GridCell.Tab.0.left" timestamp="1582125810536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582124605915" />
-    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1582124605915">
+    <state width="1877" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582125810536" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right" timestamp="1582125810536">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582124605915" />
+    <state width="1877" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582125810536" />
     <state x="440" y="94" key="SettingsEditor" timestamp="1582119713164">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -145,6 +134,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582119527903" />
+    <state x="342" y="222" key="new project wizard" timestamp="1582125375648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="222" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1582125375648" />
     <state x="61" y="233" key="search.everywhere.popup" timestamp="1582124172796">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

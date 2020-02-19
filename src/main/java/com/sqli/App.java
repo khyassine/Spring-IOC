@@ -23,10 +23,10 @@ public class App
         ProduitService produitService=ctx.getBean(ProduitServiceImpl.class);
         List<Produit> produits =produitService.getAll();
         for(Produit produit :produits){
-            System.out.println("ID :"+produit);
-            System.out.println("Libelle : "+produit);
-            System.out.println("Prix : "+produit);
-            System.out.println("-----------------------"+produit);
+            System.out.println("ID :"+produit.getId());
+            System.out.println("Libelle : "+produit.getLibelle());
+            System.out.println("Prix : "+produit.getPrix());
+            System.out.println("-----------------------");
 
         }
     }
